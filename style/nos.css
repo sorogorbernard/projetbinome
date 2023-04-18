@@ -1,0 +1,199 @@
+.logo img{
+    max-width: 120px; 
+   }
+   .cadre1{
+   
+       
+   }
+   .cadre2{
+       margin: 0; padding: 0;
+       height: 50px;
+       color: red;
+       font-size: 35px;
+       font-family: Arial, Helvetica, sans-serif;
+       text-align: center;
+       letter-spacing: 1px;
+       border-radius: 50px;
+       font-weight: bold;
+   }
+
+   .bg{
+
+        height: 20px;
+   }
+
+
+
+   .t1{
+       color: white;
+       word-spacing: 50px;
+       cursor: pointer;
+   }
+   .dark{
+       background-color: black;
+       height: 30px;
+   }
+   .menu p{
+   color: white;
+   font-size: large;
+   cursor: pointer;
+}
+.sect2{
+    background-image: url(../images/camera_notebook_laptop_headphone_pen-122.jpg!s2.jpg);
+}
+.ima{
+   position: relative;
+   top: 0px;
+   right: 30px; 
+}
+
+.hr{
+    position: relative;
+    width: 5cm;
+    left :20%;
+    top:-1px;
+    font-size: 10px;
+}
+btn-order{
+    color: var(--bs-teal);
+    border-color:var(--bs-teal);
+    transition: 0.5s;
+    
+}
+.btn-order:hover,
+.btn-order:active{
+    color:  white;
+
+}
+.btn-order{
+position: relative;
+    top:0%;
+    left:20%;
+}
+
+.paragraphe{
+    
+    position: relative; color: white; font-size: 17px;
+    left: 60%;
+    top: -150px;
+    background-color: blue;width: 300px; text-align: center;
+    height: 90px;
+    border-radius: 15px;
+    background: linear-gradient(180deg, rgb(7, 7, 100), rgb(11, 11, 167) );
+  -webkit-box-shadow: 0 8px 17px 0 rgba(0,0,0) , 0 6px 20px 0 rgba(0,0,0);
+  box-shadow: 0 8px 0 rgba(0,0,0) 0 6px 20px 0 rgba(0,0,0); 
+   
+}
+.menus{
+    list-style: none; 
+    position: relative;
+    left: 55%;
+    top: -210px;
+    border: 1px #add3d3 solid; width: 400px;
+    font-size:18px;
+    font-family: Arial, Helvetica, sans-serif;
+  -webkit-box-shadow: 0 8px 17px 0 rgba(0,0,0) , 0 6px 20px 0 rgba(0,0,0); 
+  box-shadow: 0 8px 0 rgba(0,0,0) 0 6px 20px 0 rgba(0,0,0); 
+  background-image/passport.jpeg;
+}
+
+
+html{
+    overflow-y:;
+    overflow-x: hidden;
+    width: 100%;
+}
+.nn{
+   width: 400px;
+   height: 60px;
+   background-color:blue;
+   width:  300px;
+   height: 250px;
+   font-size: 17px; 
+   text-align: center; 
+   color: white; 
+}
+
+.nn{
+    
+    position: relative;
+    /* border-radius: 600px; */
+    top: -250px;
+    left: 57%; 
+}
+.si{
+    background-color: blue;
+    width:  190px;
+   height: 150px;
+   border-radius: 600px;
+   position: relative;
+   left: 60%;
+   top: -200px;
+   text-align: center;
+   font-size: 17px; 
+   color: white; 
+}
+
+.section4{
+    background-color: blue;
+    width:  195px;
+   height: 160px;
+   border-radius: 600px;
+   position: relative;
+   left: 63%;
+   top: -200px;
+   text-align: center;
+   font-size: 16xpx; 
+   color: white; 
+}
+.button{
+    border-color:var(--bs-teal);
+    transition: 0.5s;
+    background-color: black;
+    color:white ;
+    position: relative;
+    top: -300px;
+    left: 40%;
+}
+.button:hover,
+.button:active{
+    color: aqua;
+}
+.red{
+    color: red;
+}
+
+  .menus:hover{
+    cursor: pointer; color:blue; 
+  }
+  .menus{
+    border-radius: 30px;
+    height: 7cm;
+    
+  }
+
+  .menue{
+    list-style: none;
+    position: relative;
+    color: white;
+   
+}
+
+.menue2{
+    list-style: none;
+    position: relative;
+    color: white;
+}
+.menue3{
+    list-style: none;
+    color: white;
+}       
+.grand{
+    position: relative;
+    top: -200px;
+    text-align: center;
+}
+.red{
+    position: relative;
+    height: 10cm;
+}

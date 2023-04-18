@@ -1,0 +1,183 @@
+.logo img{
+ max-width: 120px; 
+}
+.cadre1{
+
+    float: right;
+}
+
+/* html{
+    overflow-x: hidden;
+    overflow-y:;
+    width: 100%;
+} */
+.cadre2{
+    margin: 0; padding: 0;
+    height: 50px;
+    color: red;
+    font-size: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    letter-spacing: 1px;
+    border-radius: 50px;
+    font-weight: bold;
+}
+.t1{
+    color: white;
+    word-spacing: 50px;
+    cursor: pointer;
+}
+.dark{
+    background-color: black;
+    height: 30px;
+}
+.menu p{
+color: white;
+font-size: large;
+cursor: pointer;
+}
+.menu a{
+    text-decoration: none;
+    color: white;
+}
+
+.nos p{
+text-align: center;
+font-family: Arial, Helvetica, sans-serif;
+font-weight:bold;
+font-size: 60px;
+color: rgb(63, 63, 241);
+}
+.notre p{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 60px;
+    color: rgb(63, 63, 241);
+}
+/*  nos partenaires 125 */
+.partenaire{
+    background-color: rgb(63, 63, 241);
+}
+.partenaire p{
+    text-align: center;
+font-family: Arial, Helvetica, sans-serif;
+font-weight: bold;
+font-size: 60px;
+color: white;
+}
+.logo2{
+     width: 100px; height: 100px;
+}
+.logo2 img{
+    max-width: 120px;
+}
+/*   formation    */
+.formation{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 60px;
+    color: rgb(63, 63, 241);
+
+}
+.premier{
+    width: 150px; height: 150px;
+    background-color: rgb(63, 63, 241);
+    color: white;
+    font: 1em sans-serif;
+    text-align: center;
+    padding: 20px;
+    box-shadow: 2px 2px 2px 2px mediumorchid;
+    transition: 0.3s ease-out;
+    border-radius: 5px;
+     
+}
+.deuxieme{
+    width: 150px; height: 150px;
+    background-color: rgb(63, 63, 241);
+    color: white;
+    font: 1em sans-serif;
+    text-align: center;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 2px 2px 2px 2px mediumorchid;
+}
+.troisieme{
+    width: 150px; height: 150px;
+    background-color: rgb(63, 63, 241);
+    color: white;
+    font: 1em sans-serif;
+    text-align: center;
+    padding: 20px;
+    position: relative;
+    top: 100px;
+    border-radius: 5px;
+    box-shadow: 2px 2px 2px 2px mediumorchid;
+}
+.quatrieme{
+    width: 150px; height: 150px;
+    background-color: rgb(63, 63, 241);
+    color: white;
+    font: 1em sans-serif;
+    text-align: center;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 2px 2px 2px 2px mediumorchid;
+}
+.cinquieme{
+    width: 150px; height: 150px;
+    background-color: rgb(63, 63, 241);
+    color: white;
+    font: 1em sans-serif;
+    text-align: center;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 2px 2px 2px 2px mediumorchid;
+}
+.cinquieme :hover{
+    color: mediumorchid;
+}
+/*   temoignage 144*/
+.temoignages{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 60px;
+    color: rgb(63, 63, 241);
+    
+}
+.trais{
+font-size: large;
+background-color: black;
+color: black;
+height: 3px;
+width: 400px;
+margin-left: 480px;
+position: relative;
+bottom: 10px;
+}
+.voir{
+text-align: center;
+}
+.menue{
+    list-style: none;
+    position: relative;
+    top: -20px;
+}
+.menu2{
+    list-style: none;
+    left: 250px;
+    position: relative;
+    top: -80px;
+}
+.menu3{
+    list-style: none;
+    position: relative;
+    top: -40px;
+    left: 450px;
+}
+/* footer 129*/
+
+
+

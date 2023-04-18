@@ -1,0 +1,142 @@
+.logo img{
+    max-width: 120px; 
+   }
+   .cadre1{
+   
+       float: right;
+   }
+   .cadre2{
+       margin: 0; padding: 0;
+       height: 50px;
+       color: red;
+       font-size: 35px;
+       font-family: Arial, Helvetica, sans-serif;
+       text-align: center;
+       letter-spacing: 1px;
+       border-radius: 50px;
+       font-weight: bold;
+   }
+   .t1{
+       color: white;
+       word-spacing: 50px;
+       cursor: pointer;
+   }
+   .dark{
+       background-color: black;
+       height: 30px;
+   }
+   .menu p{
+   color: white;
+   font-size: large;
+   cursor: pointer;
+}
+
+.m{
+    position: relative;
+    top: 1px;
+    width: 550px;
+    height: 60px;
+}
+
+.po{
+    color: red; border: white; font-size: 60px;
+    margin-left:40%;  
+}
+.back{
+    background-color: blue; border-radius: 80px;
+    width: 800px;
+    position: relative;
+    margin-left: 40%
+    
+}
+
+
+.para{
+    font-size: 30px;
+}
+.violet{
+    font-size: 40px; color: blueviolet;
+    position: relative;
+    top: 20px;
+    right: 120px;
+    top: +30px;
+}
+.x1{
+ font-size: 20px;
+ position: relative;
+ top: -40px;
+ color: blueviolet;
+}
+
+.y1{
+    font-size: 30px;
+    position: relative;
+    top: 30px;
+    right: 100px;
+}
+.top{
+    position: relative;
+    top: 30px;
+    font-size: 30px;
+    left: 50px;
+}
+
+.y2{
+    position: relative;
+    top: +60px;
+    font-size: 40px;
+}
+.x3{
+    position: relative;
+    top: -90 px;
+    font-size: 30px;
+   left: 50%;
+}
+.y4{
+    position: relative;
+    top: +70px;
+}
+body{
+    margin: 0px;
+    padding: 0px;
+}
+html{
+    overflow-y:auto ;
+    overflow-x: hidden;
+    width: 100%;
+}
+
+.im{
+    margin-left: 190px;
+}
+
+.m1{
+    margin-left: 200px;
+}
+
+.menue{
+    
+   
+    list-style: none;
+    margin-right:500px;
+    position: relative;
+    top: 0px;
+    right: 200px;
+}
+
+.menue2{
+    list-style: none;
+    left:300px;
+    position: relative;
+    top: -80px;
+    
+}
+.menue3{
+    list-style: none;
+    margin-top:-200px;
+    position: relative;
+    top: 0px;
+    left: 200px;
+}       
+    
+

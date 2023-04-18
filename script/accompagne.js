@@ -1,0 +1,7 @@
+alert("entrez votre nom")
+var nom = prompt()
+alert("votre prenom")
+var prenom = prompt()
+alert("votre e-mail")
+var prenom = prompt()
+alert("Veillez patienter s'il vous plais")
